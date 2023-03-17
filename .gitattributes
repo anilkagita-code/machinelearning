@@ -5,3 +5,5 @@
 20_Unsupervised/30_Recommendations/data/*.csv filter=lfs diff=lfs merge=lfs -text
 =======
 >>>>>>> 78ea9b25e1d3f336ff3d8d38bdeb2dedadcd14e8
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text

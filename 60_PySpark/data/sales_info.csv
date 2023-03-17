@@ -1,13 +1,3 @@
-Company,Person,Sales
-GOOG,Sam,200
-GOOG,Charlie,120
-GOOG,Frank,340
-MSFT,Tina,600
-MSFT,Amy,124
-MSFT,Vanessa,243
-FB,Carl,870
-FB,Sarah,350
-APPL,John,250
-APPL,Linda, 130
-APPL,Mike, 750
-APPL, Chris, 350
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2212e41b22421d7a13e5cb029ace0f63963f9e4319954b369f219c0b4a1ac7b
+size 196
